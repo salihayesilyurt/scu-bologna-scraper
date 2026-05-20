@@ -1,0 +1,167 @@
+python link_toplayici.py 123
+71 ders satiri bulundu. curCourse ID'leri toplaniyor...
+
+  [1/71] curCourse=1866359
+  [2/71] curCourse=1866360
+  [3/71] curCourse=1866423
+  [4/71] curCourse=1866361
+  [5/71] curCourse=1866362
+  [6/71] curCourse=1866364
+  [7/71] curCourse=1866363
+  [8/71] curCourse=1866366
+  [9/71] curCourse=1866371
+  [10/71] curCourse=1866367
+  [11/71] curCourse=1866370
+  [12/71] curCourse=1866368
+  [13/71] curCourse=1866372
+  [14/71] curCourse=1866369
+  [15/71] curCourse=1866379
+  [16/71] curCourse=1866378
+  [17/71] curCourse=1866374
+  [18/71] curCourse=1866376
+  [19/71] curCourse=1866377
+  [20/71] curCourse=1866375
+  [21/71] curCourse=1866373
+  [22/71] curCourse=1866344
+  [23/71] curCourse=1866386
+  [24/71] curCourse=1866382
+  [25/71] curCourse=1866384
+  [26/71] curCourse=1866385
+  [27/71] curCourse=1866383
+  [28/71] curCourse=1866381
+  [29/71] curCourse=1866346
+  [30/71] curCourse=1866393
+  [31/71] curCourse=1866389
+  [32/71] curCourse=1866390
+  [33/71] curCourse=1866395
+  [34/71] curCourse=1866392
+  [35/71] curCourse=1866388
+  [36/71] curCourse=1866350
+  [37/71] curCourse=1866349
+  [38/71] curCourse=1866387
+  [39/71] curCourse=1866391
+  [40/71] curCourse=1866414
+  [41/71] curCourse=1866412
+  [42/71] curCourse=1866403
+  [43/71] curCourse=1866396
+  [44/71] curCourse=1866400
+  [45/71] curCourse=1866397
+  [46/71] curCourse=1866401
+  [47/71] curCourse=1866353
+  [48/71] curCourse=1866351
+  [49/71] curCourse=1866404
+  [50/71] curCourse=1866405
+  [51/71] curCourse=1866398
+  [52/71] curCourse=1866399
+  [53/71] curCourse=1866425
+  [54/71] curCourse=1866424
+  [55/71] curCourse=1866406
+  [56/71] curCourse=1866413
+  [57/71] curCourse=1866355
+  [58/71] curCourse=1866408
+  [59/71] curCourse=1866410
+  [60/71] curCourse=1866415
+  [61/71] curCourse=1866416
+  [62/71] curCourse=1866417
+  [63/71] curCourse=1866409
+  [64/71] curCourse=1866419
+  [65/71] curCourse=1866418
+  [66/71] curCourse=1866407
+  [67/71] curCourse=1866420
+  [68/71] curCourse=1866422
+  [69/71] curCourse=1866421
+  [70/71] curCourse=1866357
+  [71/71] curCourse=1866358
+
+Bitti. 71 ders linki yazildi -> links.txt
+
+Simdi su komutu calistirin:  python bologna_scraper.py
+
+
+Ogrenci sayilari okundu (62 ders): 2025-Guz-Mevcut-Ders.xlsx, 2025-Bahar-Mevcut-Ders.xlsx
+71 ders islenecek...
+
+  [1/71] BİL101       ALGORİTMA VE PROGRAMLAMA               ogr:200
+  [2/71] BİL103       BİLGİSAYAR BİLİMLERİNE GİRİŞ           ogr:180
+  [3/71] EEM141       TEMEL ELEKTRONİK                       ogr:95
+  [4/71] FİZ111       GENEL FİZİK I                          ogr:210
+  [5/71] MAT155       GENEL MATEMATİK - I                    ogr:225
+  [6/71] UTÜR1001     TÜRK DİLİ - I                          ogr:80  (ogrenci sayisi bulunamadi!)
+  [7/71] UYDİ1001     İNGİLİZCE - I                          ogr:80  (ogrenci sayisi bulunamadi!)
+  [8/71] BİL102       BİLGİSAYAR DESTEKLİ LİNEER CEBİR       ogr:337
+  [9/71] BİL104       NESNE TABANLI PROGRAMLAMA              ogr:253
+  [10/71] FİZ112       GENEL FİZİK II                         ogr:273
+  [11/71] KPD1000      KARİYER PLANLAMA                       ogr:162
+  [12/71] MAT156       GENEL MATEMATİK - II                   ogr:212
+  [13/71] UTÜR1002     TÜRK DİLİ - II                         ogr:80  (ogrenci sayisi bulunamadi!)
+  [14/71] UYDİ1002     İNGİLİZCE - II                         ogr:80  (ogrenci sayisi bulunamadi!)
+  [15/71] BİL201       VERİ YAPILARI                          ogr:324
+  [16/71] BİL203       SAYISAL ELEKTRONİK                     ogr:361
+  [17/71] BİL205       AYRIK İŞLEMSEL YAPILAR                 ogr:322
+  [18/71] BİL207       MESLEKİ İNGİLİZCE - I                  ogr:306
+  [19/71] BİL209       NESNE TABANLI ANALİZ VE TAS.           ogr:225
+  [20/71] MAT277       DİFERANSİYEL DENKLEMLER                ogr:431
+  [21/71] UATA1001     ATATÜRK İLKELERİ VE INKILAP TARİHİ - I ogr:80  (ogrenci sayisi bulunamadi!)
+  [22/71] FOR201       EĞİTİME GİRİŞ                          ogr:76
+  [23/71] BİL202       SAYISAL ANALİZ                         ogr:402
+  [24/71] BİL204       BİLGİSAYAR MİMARİSİ                    ogr:302
+  [25/71] BİL206       MESLEKİ İNGİLİZCE - II                 ogr:291
+  [26/71] BİL208       OTOMATA TEORİSİ                        ogr:228
+  [27/71] BİL210       ELEKTRONİK DEVRELER VE TASARIMI        ogr:263
+  [28/71] UATA1002     ATATÜRK İLKELERİ VE INKILAP TARİHİ - I ogr:80  (ogrenci sayisi bulunamadi!)
+  [29/71] FOR202       EĞİTİM PSİKOLOJİSİ                     ogr:80  (ogrenci sayisi bulunamadi!)
+  [30/71] BİL301       PROGRAMLAMA DİLLERİ                    ogr:221
+  [31/71] BİL303       İŞLETİM SİSTEMLERİ                     ogr:283
+  [32/71] BİL305       MİKROİŞLEMCİLER                        ogr:252
+  [33/71] BİL307       VERİTABANLARINA GİRİŞ                  ogr:225
+  [34/71] BİL309       OLASILIK VE İSTATİSTİK                 ogr:272
+  [35/71] TMB303       İŞ SAĞLIĞI VE GÜVENLİĞİ - I            ogr:210
+  [36/71] ID 1866350 -> HATA: ders bilgisi ayristirilamadi
+  [37/71] FOR303       ÖĞRETİM İLKE VE YÖNTEMLERİ             ogr:80  (ogrenci sayisi bulunamadi!)
+  [38/71] BİL301S      BİLGİSAYAR GRAFİK PROG. GİRİŞ          ogr:81
+  [39/71] BİL303S      NESNELERİN İNTERNETİ                   ogr:84
+  [40/71] BİL305S      OPTİMİZASYON                           ogr:51
+  [41/71] BİL307S      MOBİL PROGRAMLAMA                      ogr:48
+  [42/71] BİL302       SİNYALLER VE SİSTEMLER                 ogr:229
+  [43/71] BİL304       ALGORİTMA ANALİZİ                      ogr:280
+  [44/71] BİL306       İNTERNET TEKNOLOJİLERİ                 ogr:216
+  [45/71] BİL308       BİLGİSAYAR AĞLARI                      ogr:271
+  [46/71] TMB304       İŞ SAĞLIĞI VE GÜVENLİĞİ - II           ogr:225
+  [47/71] ID 1866353 -> HATA: ders bilgisi ayristirilamadi
+  [48/71] FOR304       EĞİTİMDE ÖLÇME VE DEĞERLENDİRME        ogr:80  (ogrenci sayisi bulunamadi!)
+  [49/71] BİL302S      VERİTABANI TASARIM VE UYGULAMA         ogr:97
+  [50/71] BİL304S      YAZILIM MÜHENDİSLİĞİ                   ogr:106
+  [51/71] BİL306S      GÖMÜLÜ SİSTEMLER                       ogr:52
+  [52/71] BİL308S      GÖRSEL PROGRAMLAMA                     ogr:96
+  [53/71] BİL310S      YAPAY SİNİR AĞLARI                     ogr:31
+  [54/71] ID 1866424 -> HATA: ders bilgisi ayristirilamadi
+  [55/71] BİL4000      BİTİRME ÖDEVİ - I                      ogr:80  (ogrenci sayisi bulunamadi!)
+  [56/71] BİL401       MÜHENDİSLİK EKONOMİSİ                  ogr:80  (ogrenci sayisi bulunamadi!)
+  [57/71] FOR401       ÖZEL ÖĞRETİM YÖNTEMLERİ                ogr:34
+  [58/71] BİL401S      İNTERNET PROGRAMLAMA                   ogr:123
+  [59/71] BİL403S      MAKİNE ÖĞRENMESİ                       ogr:80  (ogrenci sayisi bulunamadi!)
+  [60/71] BİL405S      PARALEL PROGRAMLAMA                    ogr:80  (ogrenci sayisi bulunamadi!)
+  [61/71] BİL407S      ROBOT PROGRAMLAMA                      ogr:81
+  [62/71] BİL409S      SAYISAL GÖRÜNTÜ İŞLEME                 ogr:115
+  [63/71] BİL411S      İŞLETİM SİSTEMİ UYGULAMALARI           ogr:93
+  [64/71] BİL415S      VERİ MADENCİLİĞİ                       ogr:97
+  [65/71] BİL419S      SİBER GÜVENLİK                         ogr:80  (ogrenci sayisi bulunamadi!)
+  [66/71] BİL421S      BULUT BİLİŞİM                          ogr:80  (ogrenci sayisi bulunamadi!)
+  [67/71] ID 1866420 -> HATA: ders bilgisi ayristirilamadi
+  [68/71] BİL425S      DERİN ÖĞRENME                          ogr:46
+  [69/71] BİL402       İŞLETMEDE MESLEKİ EĞİTİM               ogr:80  (ogrenci sayisi bulunamadi!)
+  [70/71] FOR402       ÖĞRETİM TEKNOLOJİLERİ                  ogr:80  (ogrenci sayisi bulunamadi!)
+  [71/71] FOR404       ÖĞRETMENLİK UYGULAMASI                 ogr:80  (ogrenci sayisi bulunamadi!)
+
+Bitti. 67 ders yazildi -> Dersler_dolu.xlsx
+
+4 ders islenemedi:
+   - ID 1866350: ders bilgisi ayristirilamadi
+   - ID 1866353: ders bilgisi ayristirilamadi
+   - ID 1866424: ders bilgisi ayristirilamadi
+   - ID 1866420: ders bilgisi ayristirilamadi
+
+18 ders ogrenci sayisi dosyalarinda bulunamadi (varsayilan 80 yazildi, elle kontrol edin):
+   UTÜR1001, UYDİ1001, UTÜR1002, UYDİ1002, UATA1001, UATA1002, FOR202, FOR303, FOR304, BİL4000, BİL401, BİL403S, BİL405S, BİL419S, BİL421S, BİL402, FOR402, FOR404
+
+NOT: 'Ders Teması' ve 'Kullanılan Eğitim Platformları' sutunlari otomatik tahminle dolduruldu; gozden gecirmeniz onerilir.
